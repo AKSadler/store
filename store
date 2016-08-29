@@ -40,5 +40,6 @@ for (var i = 0; i < shoppingList.length; i++)
 sum = sum + shoppingList [i];  
   
 console.log(sum);
-  
+shoppingList.clear; 
 }
+
